@@ -1,0 +1,321 @@
+/slow | I’m a very slow thinker
+/expire | Keep earning your title, or it expires
+/unmo | When you’re extremely un-motivated
+/dc | Disconnect
+/2c | Don’t add your 2 cents
+/futures | Possible futures
+/counter | I sound strange because I’m singing the counter-melody
+/d1x | How to stop being rich and happy
+/d1u | How to be useful to others
+/d1t | How to thrive in an unknowable future
+/d1s | What to do when you get successful
+/d1r | How to get rich
+/d1p | How to like people
+/d1 | Do this. Directives - part 1
+/asking | Don’t start a business until people are asking you to
+/interviews | Interviews at sivers.org/i
+/nopr | Why I don’t promote
+/hsu | Happy, Smart, and Useful
+/mw | Assume men and women are the same
+/advice | A warning to anyone receiving advice
+/compensate | Over-compensate to compensate
+/thx | How to take a compliment
+/gifts | Why I don’t want stuff
+/prog | Should you learn programming? Yes.
+/learn-js | How to learn JavaScript
+/switch | Switch strategies
+/now3 | nownownow.com
+/nowff | The /now page movement
+/relax | Relax for the same result
+/no2 | Saying no to everything else
+/2do | “Just tell me what to do”: compressing knowledge into directives
+/pg | Simplify: move code into database functions
+/bad | Getting out of a bad place
+/career | How to change or build your career
+/mindset | Fixed mindset vs Growth mindset
+/lw | I love being wrong
+/cs | The philosophy of great customer service
+/hate | Loving what I used to hate
+/ml | The Meaning of Life
+/tarzan | Change careers like Tarzan
+/full | What if you didn’t need money or attention?
+/game | How will this game end?
+/mirror | Imitate. We are imperfect mirrors.
+/vn14 | Understanding Vietnam
+/sg14 | Understanding Singapore
+/id14 | Understanding Indonesia
+/jp14 | Understanding Japan
+/quality | Same word. Different places? Different meanings.
+/we14 | Wood Egg 2014 books are on sale now
+/jac | Jac Holzman
+/here | Why am I here?
+/ws | Why my code and ideas are public
+/milt | OK, Milt Olin, I’ll start writing again
+/robust | Fragile Plan vs Robust Plan
+/eg | Wood Egg (my new company)
+/wrong | Some will always say you’re wrong
+/360 | No rules in this game
+/io | Seeking inspiration?
+/ebert2 | The Great Movies
+/hi | Human Intervention as a Competitive Advantage
+/xn | It’s all who you know?
+/boring | Focus, entertain, or both?
+/srs | Memorizing a programming language using spaced repetition software
+/my-fault | Everything is my fault
+/local | You don’t have to be local
+/comfort | Push, push, push. Expanding your comfort zone.
+/ss | Smart people don’t think others are stupid
+/la | Advice on moving to Los Angeles
+/friends | Friends from memory
+/sharing | The co-op business model: share whatever you’ve got
+/232 | 232 sand dollars
+/andor | Procrastination Hack : change and to or
+/ayw | Anything You Want (my first book)
+/meaning | Projecting meaning
+/fish | Fish don’t know they’re in water
+/donkey | Trying to pursue many different directions at once?
+/singapore | I moved to Singapore
+/aq | Any questions?
+/homeless | There’s no place like home
+/delegate | Delegate or die: the self-employed trap.
+/obvious | Obvious to you. Amazing to others.
+/blank | Why wreck a blank canvas?
+/itunes | The day Steve Jobs dissed me in a keynote
+/kl | KarmaList wishlist?
+/starving-artist | Valuable to others, or only you?
+/quirks | Quit quirks when working with others
+/loss | My loss
+/below-average | I assume I’m below average
+/gethired | How to get hired
+/how2hire | How to hire a programmer to make your ideas happen
+/15-years | After 15 years of practice...
+/sakamoto | How I became Ryuichi Sakamoto’s guitarist
+/nq | Naïve Quitting
+/thor | Thursday = Thor’s day
+/real | A real person, a lot like you
+/flipstick | Flip the stick
+/sxsw | Successful SxSW: the Tao of the Conference
+/weidman | The Night I Met Einstein - by Jerome Weidman
+/ff2 | First Follower idea is all yours
+/ff | First Follower: Leadership Lessons from a Dancing Guy
+/punish | Resist the urge to punish everyone for one person’s mistake
+/options | There are always more than two options
+/prism | Big catalog = infinite specialty shops
+/seth-godin | Seth Godin on spreading music and selling intimacy
+/ie2 | Musician feedback on Ignore Everybody
+/papabill | Papa Bill: I don’t need to worry about you.
+/busk | Put buskers online
+/tv | "Online" marketing = "Color" TV
+/trust | Why I gave away my company to charity
+/kimo | There’s no speed limit. (The lessons that changed my life.)
+/jaddr | Japanese Addresses: the opposite is also true
+/1idea | Present one idea at a time and let others build upon it
+/compose-key | Linux Compose Key
+/futuretense | The challenge: Don’t speak in future tense
+/trust-but-verify | Trust but verify
+/walkways | Let pedestrians define the walkways
+/fela-kuti | Fela Kuti
+/confidence | Confidence required
+/passion | If you think you haven’t found your passion...
+/notwork | Doesn’t feel like work (or I’ve forgotten)
+/metaphor | Learning the theme, not the example.
+/done | How I knew I was done with my company
+/unclear | You should feel pain when unclear
+/grade | How do you grade yourself?
+/makenew | Not happy with existing venues? Make a new one.
+/inlove | What’s the difference between like, love, and in-love?
+/ie | Highest book recommendation: Ignore Everybody
+/1pct | And if only 1% of those people...
+/sms | Does your company really want to hang out with me?
+/biking | Biking
+/venuemix | Venue for audience to mix their own audio
+/livecd | Emphasize meaning over price = More paid sales
+/freedom | Is there such a thing as too much freedom?
+/dont-fight-it | Write? Write. Sleep? Sleep. Read? Read. Don’t fight it.
+/safety | Safety
+/steps | Imagining lots of tedious steps? Or one fun step?
+/desperate2 | ... desperate? Part 2
+/desperate | Does it help to be desperate?
+/ladders | climbing ladders
+/unlearning | Unlearning
+/heroes | My heroes
+/drama | Kurt Vonnegut explains drama
+/emailer | How to send personalized emails
+/sprezzatura | Sprezzatura
+/hatenot | What do you hate not doing?
+/mhost | Idea: Musician’s own website as definitive source of all info
+/tweet | How I use Twitter
+/hellyeah | No more yes. It’s either HELL YEAH! or no.
+/multiply | Ideas are just a multiplier of execution
+/kidspc | A computer that would require kids to be creative to use it
+/ted09 | TED Conferences
+/the-mob | I miss the mob
+/letmeknow2 | Listen to my music, and let me know what I should do
+/barking | Barking
+/no-reward | The power of no reward
+/you-not-them | The mirror: It’s about you, not them.
+/tom-williams | Tom Williams: Hired by Apple at 14. His full story.
+/semi-expert | Semi-experts: profit by saving us time
+/novc | Nothing to waste: The advantage of being under-funded
+/lofi | Version 0.1 = Start lo-fi
+/early | Early drafts of great work are encouraging
+/mktg101 | Fundamental reading on marketing
+/contrarian | Doing the opposite of everyone is valuable.
+/jadr | Japanese addresses: No street names. Block numbers.
+/whystuck | Why do we get some songs stuck in our head?
+/jam | Customers given too many choices are 10x less likely to buy
+/zipit | Announcing your plans makes you less motivated to accomplish them
+/air | Grow your own fresh air
+/infinity | That’s version ∞. First launch version 0.1.
+/success-first | Show success before asking for help
+/laboratory | Why you need your own company
+/musicthoughts2 | MusicThoughts update : inspiring quotes for music-makers
+/qlq | Does quantity + learning = quality?
+/dance-lessons | How to make a movement. Lessons learned from dancing guy.
+/time | Are you future-focused or present-focused? The marshmallow experiment.
+/enough | You have enough.
+/ppay | Some people like to pay. Let them.
+/purplecow | Are fans telling friends? If not, improve, don’t promote.
+/no9to5 | What do musicians and entrepreneurs have in common?
+/super-power | What super-power do you want?
+/sustainable | Talent increases. Resourcefulness decreases. Are you sustainable?
+/mistake | My $3.3M mistake
+/chickens | Have you looked under the chickens?
+/decaying | Not what it used to be!
+/details | Dreams are here. Details have changed.
+/backwards | Backwards
+/character | Character predicts your future
+/sammy-cahn | Sammy Cahn said thank you
+/goals | Goals shape the present, not the future.
+/aimee-mullins | Aimee Mullins
+/accelerate-change | Accelerate change
+/horses | My favorite fable (塞翁失马)
+/songfeedback | What do you do for feedback on a new song you’re writing?
+/in2power | Me, we.
+/ideas2 | Ideas to Reality
+/song-contest-idea | A free, open song contest idea
+/see-musicthoughts | MusicThoughts.com
+/session-musician | Advice for a 19-year-old guitarist who wants to be a session musician.
+/complainers | Complainers
+/make-you-happy | Don’t... if you think it’s going to make you happy
+/getting-past-it | Getting past it
+/up2you | Nobody’s going to help you. Does that encourage you or discourage you?
+/villain | Happiness is letting someone make you the villain
+/conferences | Attending a music biz conference? Here’s the REAL way to do it....
+/mystery | Mystery : Are people asking themselves questions about you?
+/realrebel | Real rebellion is going to school wearing a clown suit
+/more-than-one | Double-speed! Half-speed! Up an octave! Down an octave!
+/accents | Are foreign accents a reflection of identity?
+/truisms | Song lyric inspiration from Jenny Holzer’s Truisms
+/no-oracle | Nobody knows the future - and it doesn’t matter!
+/grand-pursuit | The Grand Pursuit
+/uncomparable | Uncomparable: anchor a new mama
+/list-books | The list of books I’ve read in the past year
+/be-there | Should I put my music on LOTS of websites, or just a few?
+/lines | Is your album a starting line or a finish line?
+/ebert | Ebert is reviewing again!
+/mastering-entrepreneurship | Mastering entrepreneurship?
+/small-actions-changing-identity | Small actions changing self-identity
+/iceland | Iceland
+/berklee | 6 things I wish I knew the day I started Berklee
+/inspiration-is-a-good-start | Inspiration is a good start...
+/reversible | Reversible business models
+/maslow | Abraham Maslow’s 8 Ways to Self-Actualize
+/bye-bye-baby | Bye-Bye, Baby!
+/own-nothing | Ah, to own nothing!
+/songwriters-only | Songwriters / Lyricists / Composers (who don’t perform)
+/who-to-ask | Who to ask for recommendations
+/action-reaction | Action-Reaction
+/aww-shucks | Heartwarming compliments about my e-book
+/college | A Musician’s Advice About the College Market
+/asia-diary | Trip diary from Japan, Vietnam, Hong Kong
+/across-the-universe | Across the Universe
+/learn-unlearn-and-relearn | Learn, Unlearn, and Relearn
+/stereotype | I’m a stereotypical entrepreneur
+/candles | Selling music by solving a specific need
+/sakurajima | Sakurajima
+/rr | ... until I know how to do it, then I stop
+/how-was-india | How was India?
+/buyable | Avoid advance promotion. Be buyable first.
+/rule-breaking-songs | Rule-breaking songs?
+/fela | two three four ONE, two three four ONE
+/no-bullseye | Aim for the edges.
+/moving-to-a-new-country | Moving to a new country
+/wrap-my-head | Some things I’ve learned this year that turned my world upside-down and I’m still trying to wrap my head around
+/twistori | Lyric inspiration : listening in to others’ loves, hates, wishes, feelings
+/restrictions-will-set-you-free | Restrictions will set you free
+/get-specific | Get specific!
+/thinking-doing | eliminating the time between thinking something and doing it
+/label-list | If I had a record label, would you be signed to it?
+/circles | Circle of influence - Circle of concern
+/pigs-sharks | Piracy is not the problem
+/5-tips | 5 tips for musicians
+/letmeknow | What should I do when someone says, “Let me know what you think!” of their music?
+/beginner | It’s great to be a beginner again
+/nolimit | Never have a limit on your income
+/scares-excites-do-it | Whatever scares you or excites you, go do it
+/bilbo | Happy 10th Birthday to CD Baby - and an announcement
+/big-vs-little-clients | Don’t aim for big clients
+/the-public-you-is-not-you | The public you is not you
+/rails2php | 7 reasons I switched back to PHP after 2 years on Rails
+/work-industry | Have someone work the inside of the industry
+/words-matter | Why words matter more than ever
+/what-worked-on-you | Read about new music. Use the tricks that worked on you.
+/what-not-to-say | Blah blah blah...  What not to say
+/what-do-they-really-want | Constantly ask what they really want
+/well-rounded | Well-Rounded Doesn’t Cut
+/was-10-now-90 | Was 10%, now 90%
+/wanting-more | Leave ’em wanting more
+/touch-all-senses | Touch as many of their senses as you can
+/thousand-actors | Imagine a play with 1000 actors on stage
+/this-is-a-test | This is only a test. See what happens.
+/test-marketing | Test. Improve. Perfect. Announce.
+/target-sharp | If you target sharp enough, you will own your niche
+/sound-like-someone | Tell people why they should care
+/someone-you-know | Someone you know
+/small-gifts | Small gifts go a long way
+/short-description | A short description - five seconds or less
+/say-what-you-sound-like | If you don’t say what you sound like, you won’t make any fans
+/reach-like-you | When communicating, be your quirky self
+/rayko-example | Shining example: Rayko
+/quantity | Assume the basic sale, and go for quantity
+/proudly-exclude-most | Proudly exclude some people
+/progrock-teenybop | Bad Targeting Example: progressive rocker targeting teenybopper
+/photos-of-audience | Photos of your audience on your website
+/persistence | Persistence is Polite
+/people-per-week | Meet three new people every week
+/over-your-head | Stay In Over Your Head
+/novice-not-expert | Be a novice marketer, not an expert
+/not-talk | Or you can not talk at all
+/not-musician | Describe your music like a non-musician
+/not-corporate | Never use corporate-speak
+/most-expensive-vodka | The Most Expensive Vodka
+/mosquito | Don’t be a mosquito
+/keep-in-touch2 | More thoughts about people
+/keep-in-touch | Keep in touch
+/internet-skills | Basic online skills you must know
+/interactive-website | Your Interactive Website
+/include-everyone | Make your success a we or us. Include everyone.
+/how-you-help | Always think how you can help someone
+/hillbilly-flamenco | Hillbilly Flamenco
+/high-school | Life is like High School
+/good-biz-plan | A good plan wins no matter what happens
+/get-personal | Get personal
+/get-filtered | Go where the filters are
+/fans-to-work | Put your fans to work
+/extreme-version | Be an extreme version of yourself
+/extreme-results | Extreme results = extreme actions
+/dont-drain | If this is draining your energy, please stop!
+/dont-assume | They know nothing about you. Don’t assume anything.
+/diy | DIY = Decide It Yourself
+/desktop-box | Promo bits, ready to copy
+/description-how | How to describe your music
+/database-tips | Database tips
+/database-quantity | Get used to the idea of database and quantity
+/creative-business | Business is Creative
+/conservatives-were-extreme | Even conservative legends were extreme
+/compass | Compass in Your Gut
+/close-with-hundreds | Stay in close touch with hundreds of people
+/captain-t | Captain T
+/call-the-destination | Call the destination, and ask for directions
+/ask-favors | Don’t be afraid to ask for favors

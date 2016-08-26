@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+<div id='header'>
+    <h1> My Instapaper </h1>
+</div>
+<h1>
+
+<div class='url_block'>
+    <p>
+        <h2> Requesting url : {{ url }} </h2>
+    </p>
+{% if articles %}
+<div id='articles'>
+    <p>
+        <h3>Articles</h3>
+        {% for article in articles %}
+          {{article[1]}} </br>
+        {% endfor%}
+    </p>
+</div>
+{% else %}
+<div class='message'>
+    <p>
+        Sorry, no new article since last time
+    </p>
+</div>
+{% endif%}
+</div>
+{% endblock %}

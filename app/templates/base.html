@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <title>MyInstapaper</title>
+    {% block style %}
+      <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style/general.css') }}">
+    {% endblock %}
+
+  <body>
+    {% block content %}{% endblock %}
+  </body>
+</html>
