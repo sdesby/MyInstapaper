@@ -7,6 +7,8 @@ from bs4 import BeautifulSoup
 import logging
 import sys
 
+from forms.new_articles_form import SimpleForm
+
 #--------------- LOGGER ----------------
 root = logging.getLogger()
 root.setLevel(logging.DEBUG)
@@ -19,13 +21,14 @@ root.addHandler(ch)
 
 LOGGER=logging.getLogger("MyInstapaper")
 
-@app.route('/')
+@app.route('/', methods=['GET', 'POST'])
 def index():
     url = "https://sivers.org/blog"
     user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:48.0) Gecko/20100101 Firefox/48.0"
     data_filename = "./app/static/data.txt"
 
     articles = []
+    form = SimpleForm()
     #On ouvre le blog de Derek :
     try:
         request = Request(url, headers={'User-Agent': user_agent})
@@ -37,12 +40,8 @@ def index():
             articles.append((unicode(tag['href']), unicode(tag.string)))
 
         del articles[0]
+        LOGGER.info("Requesting " + url + " for articles")
         LOGGER.info("Found " + str(len(articles)) + " articles")
-
-        #print "=========================="
-        #print "Articles from website :"
-        #print articles
-        #print "=========================="
 
         #On regarde dans le fichier data quels sont les articles que l'on a pas encore
         m_file = open(data_filename, "r")
@@ -70,10 +69,16 @@ def index():
             else:
                 new_articles = []
                 for i in range(0, index):
-                    print articles[i]
                     new_articles.append(articles[i])
                 LOGGER.debug("Found " + str(len(new_articles)) + " new articles")
-                return render_template('index.html', url=url, articles=new_articles)
+
+                form.checkboxes.choices = new_articles;
+
+                if form.validate_on_submit():
+                    # form.checkboxes.data and 
+                    print "You chose the article : " + str(form.checkboxes.data)
+
+                return render_template('index.html', url=url, form=form)
 
         return "Hello, World!"
 
@@ -83,6 +88,7 @@ def index():
 
 
     #On les affiche dans une liste que l'on présente à l'utilisateur
+
 
     #L'utilisateur choisit les liens qu'il veut ajouter à Instapaper
 

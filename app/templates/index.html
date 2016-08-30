@@ -9,13 +9,17 @@
     <p>
         <h2> Requesting url : {{ url }} </h2>
     </p>
-{% if articles %}
+{% if form %}
 <div id='articles'>
     <p>
         <h3>Articles</h3>
-        {% for article in articles %}
-          {{article[1]}} </br>
-        {% endfor%}
+        <form name="articles_form" action="" method="POST">
+          {{ form.csrf_token  }}
+          {{form.checkboxes}}
+          <p>
+              <input value="Valider" name='validate' type='submit'/>
+          </p>
+        </form>
     </p>
 </div>
 {% else %}

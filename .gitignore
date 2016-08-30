@@ -1,2 +1,5 @@
 #.pyc files
 *.pyc
+
+#Conf folder
+/instance

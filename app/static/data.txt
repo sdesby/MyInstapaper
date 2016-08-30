@@ -1,7 +1,3 @@
-/slow | I’m a very slow thinker
-/expire | Keep earning your title, or it expires
-/unmo | When you’re extremely un-motivated
-/dc | Disconnect
 /2c | Don’t add your 2 cents
 /futures | Possible futures
 /counter | I sound strange because I’m singing the counter-melody
